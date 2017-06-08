@@ -1,0 +1,20 @@
+{"name":"bubble", "children": [
+{"name": "Base Notes", "description": "",
+"children":[
+    {"name":"Vanilla"},
+    {"name":"Amber"},
+    {"name":"Woody"}
+]},
+{"name":"Heart Notes", "description":"Profiles of Country",
+"children":[
+    {"name":"Guava"},
+    {"name":"Tuberose"},
+    {"name":"Dark Chocolate"}
+]},
+{"name":"Top Notes",
+"children":[
+    {"name":"Mandarin"},
+    {"name":"Apple"},
+    {"name":"Apricot"}
+]}
+]}

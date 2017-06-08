@@ -1,0 +1,19 @@
+{"name":"bubble", "children": [
+{"name": "Base Notes", "description": "",
+"children":[
+    {"name":"Amber"},
+    {"name":"Cedar"}
+]},
+{"name":"Heart Notes", 
+"children":[
+    {"name":"Rose"},
+    {"name":"Lily of the Valley"},
+    {"name":"Magnolia"}
+]},
+{"name":"Top Notes",
+"children":[
+    {"name":"Peony"},
+    {"name":"Lychee"},
+    {"name":"Freesia"}
+]}
+]}

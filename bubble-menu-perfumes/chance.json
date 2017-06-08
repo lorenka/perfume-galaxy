@@ -1,0 +1,15 @@
+{"name":"bubble", "children": [
+{"name": "Base Notes", "description": "",
+"children":[
+    {"name":"Musk"}
+]},
+{"name":"Heart Notes",
+"children":[
+    {"name":"Vanilla"}
+]},
+{"name":"Top Notes",
+"children":[
+    {"name":"Jasmine"},
+    {"name":"Iris"}
+]}
+]}

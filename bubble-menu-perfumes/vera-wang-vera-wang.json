@@ -1,0 +1,16 @@
+{"name":"bubble", "children": [
+{"name": "Base Notes", "description": "",
+"children":[
+    {"name":"Sandalwood"}
+]},
+{"name":"Heart Notes", 
+"children":[
+    {"name":"Jasmine"},
+    {"name":"Iris"}
+]},
+{"name":"Top Notes",
+"children":[
+    {"name":"Gardenia"},
+    {"name":"Bergamot"}
+]}
+]}
