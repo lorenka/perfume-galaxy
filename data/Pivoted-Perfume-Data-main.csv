@@ -1,0 +1,424 @@
+Perfume,House,PercentNegative,PercentNeutral,PercentPositive,TopMiddleBaseAccord,TopMiddleBaseAccordValues,Total reviews (basenotes.net),top 20 Amazon Best Seller Rank (Amazon.com) not including essential oils or colognes,top 20 Nordstrom Best Seller Rank (nordstrom.com) not including essential oils or colognes
+Heat,Beyonce,0.375,0.375,0.25,Base note 1,Sequoia wood,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Base note 1,Sandalwood,6,19,
+Vera Wang,Vera Wang,0.290322581,0.35483871,0.35483871,Base note 1,Sandalwood,31,18,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Base note 1,Sandalwood,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Base note 1,Vanilla,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Base note 1,Hawaiian Wedding Flower,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Base note 1,Amber,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Base note 1,Sandalwood,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Base note 1,Sandalwood,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Base note 1,Amber,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Base note 1,Amber,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Base note 1,Patchouli,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Base note 1,Tonka bean,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Base note 1,Rose,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Base note 1,Patchouli,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Base note 1,Musk,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Base note 1,Sandalwood,43,8,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Base note 1,Musk,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Base note 1,Musk,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Base note 1,Musk,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Base note 1,Amber,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Base note 1,Rose,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Base note 1,Patchouli,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Base note 1,Driftwood,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Base note 1,Vetiver,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Base note 1,Amber,12,,5
+Jo Malone London English Pear & Freesia,Jo Malone London,0.25,0.5,0.25,Base note 1,Patchouli,4,,6
+Tory Burch,Tory Burch,0.6,,0.4,Base note 1,Vetiver,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Base note 1,Amber,37,,9
+Jo Malone London 'Peony & Blush Suede',Jo Malone London,0.666666667,,0.333333333,Base note 1,Suede,3,,10
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Base note 1,Dry fruit,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Base note 1,Vetiver,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Base note 1,Musk,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Base note 1,Cedar,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Base note 1,Sandalwood,189,,15
+Chance,Chanel,0.214285714,0.238095238,0.547619048,Base note 1,Musk,84,,16
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Base note 1,Oakmoss,20,,17
+"Philosophy ""Amazing Grace""",Philosophy,0.05,0.3,0.65,Base note 1,Oakmoss,20,,18
+Beach,Bobbi Brown,,0.466666667,0.533333333,Base note 1,Musk,15,,19
+Heat,Beyonce,0.375,0.375,0.25,Heart note 1,Honeysuckle,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Heart note 1,Spices,6,19,
+Vera Wang,Vera Wang,0.290322581,0.35483871,0.35483871,Heart note 1,Jasmine,31,18,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Heart note 1,Lotus Flower,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Heart note 1,Iris,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Heart note 1,Boysenberry Bush Flower,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Heart note 1,Tuberose,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Heart note 1,Black Lilies,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Heart note 1,Pink freesia,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Heart note 1,Magnolia,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Heart note 1,Tuberose,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Heart note 1,Apple martini,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Heart note 1,Iris,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Heart note 1,Jasmine,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Heart note 1,Lotus Flower,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Heart note 1,Cupcakes,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Heart note 1,Orange Flower,43,8,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Heart note 1,Jasmine,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Heart note 1,Iris,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Heart note 1,Carnation,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Heart note 1,Apple,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Heart note 1,Jasmine,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Heart note 1,Lychee,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Heart note 1,sea salt,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Heart note 1,Nectarine,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Heart note 1,Hyacinth,12,,5
+Jo Malone London English Pear & Freesia,Jo Malone London,0.25,0.5,0.25,Heart note 1,Freesia,4,,6
+Tory Burch,Tory Burch,0.6,,0.4,Heart note 1,Peony,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Heart note 1,Rose,37,,9
+Jo Malone London 'Peony & Blush Suede',Jo Malone London,0.666666667,,0.333333333,Heart note 1,Peony,3,,10
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Heart note 1,Tonka bean,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Heart note 1,Orchid,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Heart note 1,Tuberose,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Heart note 1,Wisteria,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Heart note 1,Jasmine,189,,15
+Chance,Chanel,0.214285714,0.238095238,0.547619048,Heart note 1,Vanilla,84,,16
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Heart note 1,Jasmine,20,,17
+"Philosophy ""Amazing Grace""",Philosophy,0.05,0.3,0.65,Heart note 1,Lily of the valley,20,,18
+Beach,Bobbi Brown,,0.466666667,0.533333333,Heart note 1,Sea spray,15,,19
+Heat,Beyonce,0.375,0.375,0.25,Main accord 1,sweet,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Main accord 1,floral,6,19,
+Vera Wang,Vera Wang,0.290322581,0.35483871,0.35483871,Main accord 1,floral,31,18,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Main accord 1,woody,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Main accord 1,balsamic,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Main accord 1,citrus,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Main accord 1,sweet,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Main accord 1,floral,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Main accord 1,green,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Main accord 1,floral,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Main accord 1,floral,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Main accord 1,fresh,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Main accord 1,sweet,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Main accord 1,floral,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Main accord 1,floral,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Main accord 1,sweet,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Main accord 1,floral,43,8,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Main accord 1,musky,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Main accord 1,floral,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Main accord 1,floral,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Main accord 1,fruity,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Main accord 1,floral,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Main accord 1,citrus,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Main accord 1,musky,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Main accord 1,fruity,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Main accord 1,floral,12,,5
+Jo Malone London English Pear & Freesia,Jo Malone London,0.25,0.5,0.25,Main accord 1,floral,4,,6
+Tory Burch,Tory Burch,0.6,,0.4,Main accord 1,citrus,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Main accord 1,floral,37,,9
+Jo Malone London 'Peony & Blush Suede',Jo Malone London,0.666666667,,0.333333333,Main accord 1,floral,3,,10
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Main accord 1,sweet,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Main accord 1,spicy,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Main accord 1,woody,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Main accord 1,floral,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Main accord 1,woody,189,,15
+Chance,Chanel,0.214285714,0.238095238,0.547619048,Main accord 1,musky,84,,16
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Main accord 1,earthy,20,,17
+"Philosophy ""Amazing Grace""",Philosophy,0.05,0.3,0.65,Main accord 1,citrus,20,,18
+Beach,Bobbi Brown,,0.466666667,0.533333333,Main accord 1,floral,15,,19
+Heat,Beyonce,0.375,0.375,0.25,Top note 1,Vanilla,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Top note 1,Melon,6,19,
+Vera Wang,Vera Wang,0.290322581,0.35483871,0.35483871,Top note 1,Gardenia,31,18,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Top note 1,Mandarin,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Top note 1,Bergamot,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Top note 1,Grapefruit,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Top note 1,Apricot,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Top note 1,Lily,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Top note 1,Sake,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Top note 1,Pomegranate,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Top note 1,Lily,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Top note 1,Lavender,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Top note 1,Black Currant,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Top note 1,Cassia,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Top note 1,Rose,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Top note 1,Lychee,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Top note 1,Rose,43,8,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Top note 1,Bergamot,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Top note 1,Orange Flower,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Top note 1,Lotus Flower,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Top note 1,Grapefruit,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Top note 1,Bergamot,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Top note 1,Orange Flower,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Top note 1,Bergamot,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Top note 1,Green Notes,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Top note 1,Grapefruit,12,,5
+Jo Malone London English Pear & Freesia,Jo Malone London,0.25,0.5,0.25,Top note 1,Pear,4,,6
+Tory Burch,Tory Burch,0.6,,0.4,Top note 1,Grapefruit,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Top note 1,Peony,37,,9
+Jo Malone London 'Peony & Blush Suede',Jo Malone London,0.666666667,,0.333333333,Top note 1,Apple,3,,10
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Top note 1,Tobacco leaf,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Top note 1,Jasmine,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Top note 1,Magnolia,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Top note 1,Lemon leaves,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Top note 1,Ylang-Ylang,189,,15
+Chance,Chanel,0.214285714,0.238095238,0.547619048,Top note 1,Jasmine,84,,16
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Top note 1,Pink pepper,20,,17
+"Philosophy ""Amazing Grace""",Philosophy,0.05,0.3,0.65,Top note 1,Bergamot,20,,18
+Beach,Bobbi Brown,,0.466666667,0.533333333,Top note 1,Jasmine,15,,19
+Heat,Beyonce,0.375,0.375,0.25,Base note 2,Tonka,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Base note 2,Amber,6,19,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Base note 2,Benzoin siam,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Base note 2,Opoponax,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Base note 2,Lily,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Base note 2,Vanilla,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Base note 2,Patchouli,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Base note 2,Amber,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Base note 2,Musks,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Base note 2,Oakmoss,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Base note 2,Musk,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Base note 2,Vanilla,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Base note 2,woody,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Base note 2,Oakmoss,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Base note 2,Orris Root,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Base note 2,Vetiver,43,8,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Base note 2,Sandalwood,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Base note 2,Sandalwood,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Base note 2,Amberseed,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Base note 2,woody,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Base note 2,Patchouli,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Base note 2,Vetiver,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Base note 2,Wood,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Base note 2,Peach,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Base note 2,Cedar,12,,5
+Tory Burch,Tory Burch,0.6,,0.4,Base note 2,Cedarwood,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Base note 2,Cedar,37,,9
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Base note 2,Wood,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Base note 2,Patchouli,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Base note 2,Vanilla,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Base note 2,Amber,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Base note 2,Vetiver,189,,15
+Heat,Beyonce,0.375,0.375,0.25,Heart note 2,Almond,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Heart note 2,Rhubarb,6,19,
+Vera Wang,Vera Wang,0.290322581,0.35483871,0.35483871,Heart note 2,Iris,31,18,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Heart note 2,Orris Concrete,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Heart note 2,Jasmine,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Heart note 2,Morning Dew Orchid,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Heart note 2,Guava,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Heart note 2,White Peony,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Heart note 2,Honeysuckle,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Heart note 2,Lotus Flower,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Heart note 2,Narcisse,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Heart note 2,Rosewood,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Heart note 2,Jasmine,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Heart note 2,Lily of the valley,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Heart note 2,Daylily,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Heart note 2,White chocolate orchid,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Heart note 2,Lily of the valley,43,8,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Heart note 2,Suede,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Heart note 2,Jasmine,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Heart note 2,Lily,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Heart note 2,Tuberose,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Heart note 2,Freesia,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Heart note 2,Rose,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Heart note 2,Mineral,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Heart note 2,Black locust,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Heart note 2,Jasmine,12,,5
+Tory Burch,Tory Burch,0.6,,0.4,Heart note 2,Mimosa,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Heart note 2,Magnolia,37,,9
+Jo Malone London 'Peony & Blush Suede',Jo Malone London,0.666666667,,0.333333333,Heart note 2,Jasmine,3,,10
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Heart note 2,Tobacco flower,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Heart note 2,Spicy notes,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Heart note 2,Plum,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Heart note 2,Peach flowers,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Heart note 2,Rose,189,,15
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Heart note 2,Leather,20,,17
+Heat,Beyonce,0.375,0.375,0.25,Main accord 2,fruity,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Main accord 2,green,6,19,
+Vera Wang,Vera Wang,0.290322581,0.35483871,0.35483871,Main accord 2,floral,31,18,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Main accord 2,green,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Main accord 2,citrus,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Main accord 2,floral,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Main accord 2,Vanilla,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Main accord 2,green,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Main accord 2,floral,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Main accord 2,acquatic,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Main accord 2,woody,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Main accord 2,musky,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Main accord 2,Vanilla,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Main accord 2,floral,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Main accord 2,fresh,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Main accord 2,fruity,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Main accord 2,floral,43,8,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Main accord 2,woody,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Main accord 2,citrus,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Main accord 2,marine,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Main accord 2,green,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Main accord 2,Patchouli,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Main accord 2,Patchouli,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Main accord 2,citrus,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Main accord 2,sweet,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Main accord 2,fruity,12,,5
+Jo Malone London English Pear & Freesia,Jo Malone London,0.25,0.5,0.25,Main accord 2,fruity,4,,6
+Tory Burch,Tory Burch,0.6,,0.4,Main accord 2,fresh,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Main accord 2,floral,37,,9
+Jo Malone London 'Peony & Blush Suede',Jo Malone London,0.666666667,,0.333333333,Main accord 2,Rose,3,,10
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Main accord 2,tobacco,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Main accord 2,sweet,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Main accord 2,floral,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Main accord 2,fresh,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Main accord 2,powdery,189,,15
+Chance,Chanel,0.214285714,0.238095238,0.547619048,Main accord 2,floral,84,,16
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Main accord 2,Leather,20,,17
+"Philosophy ""Amazing Grace""",Philosophy,0.05,0.3,0.65,Main accord 2,musky,20,,18
+Beach,Bobbi Brown,,0.466666667,0.533333333,Main accord 2,sand,15,,19
+Heat,Beyonce,0.375,0.375,0.25,Top note 2,Magnolia,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Top note 2,Freesia,6,19,
+Vera Wang,Vera Wang,0.290322581,0.35483871,0.35483871,Top note 2,Bergamot,31,18,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Top note 2,Lotus Flower,22,16,
+Happy,Clinique,0.25,0.386363636,0.363636364,Top note 2,Bergamot,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Top note 2,Mandarin,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Top note 2,Fresh Violet Leaves,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Top note 2,Mandarin,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Top note 2,Yuzu,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Top note 2,Neroli,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Top note 2,Bergamot,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Top note 2,Pear,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Top note 2,Basil,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Top note 2,Ginger,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Top note 2,Quince,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Top note 2,Mandarin,43,8,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Top note 2,Grapefruit,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Top note 2,Freesia,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Top note 2,Cucumber,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Top note 2,Tea,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Top note 2,Bergamot,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Top note 2,ambrette seeds,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Top note 2,Black currant,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Top note 2,Quince,12,,5
+Tory Burch,Tory Burch,0.6,,0.4,Top note 2,Pink pepper,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Top note 2,Lychee,37,,9
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Top note 2,Spices,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Top note 2,Gardenia,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Top note 2,Peach,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Top note 2,Lilac,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Top note 2,Neroli,189,,15
+Chance,Chanel,0.214285714,0.238095238,0.547619048,Top note 2,Iris,84,,16
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Top note 2,Bergamot,20,,17
+Beach,Bobbi Brown,,0.466666667,0.533333333,Top note 2,Mandarin,15,,19
+Heat,Beyonce,0.375,0.375,0.25,Base note 3,Amber,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Base note 3,Musk,6,19,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Base note 3,Musk,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Base note 3,Tonka bean,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Base note 3,Magnolia,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Base note 3,woody,41,1,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Base note 3,Iris,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Base note 3,Mahogany,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Base note 3,Patchouli,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Base note 3,Cedar wood,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Base note 3,Praline,21,,8
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Base note 3,woody,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Base note 3,woody,62,,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Base note 3,Amber,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Base note 3,Amber,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Base note 3,Tuberose,53,17,
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Base note 3,Vanilla,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Base note 3,Musk,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Base note 3,Plum,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Base note 3,Iris,12,,5
+Tory Burch,Tory Burch,0.6,,0.4,Base note 3,Sandalwood,5,,7
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Base note 3,Sandalwood,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Base note 3,Cedar,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Base note 3,Musk,35,,14
+Heat,Beyonce,0.375,0.375,0.25,Heart note 3,Musk,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Heart note 3,Jasmine,6,19,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Heart note 3,Heliotrope,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Heart note 3,Rose,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Heart note 3,Melati Blossom,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Heart note 3,Dark Chocolate,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Heart note 3,Pink Roses,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Heart note 3,Orange Flower,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Heart note 3,Peony,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Heart note 3,Rose,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Heart note 3,Paperwhites,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Heart note 3,Orange blossom,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Heart note 3,Rose,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Heart note 3,Violet,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Heart note 3,Jasmine,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Heart note 3,Jasmine,43,8,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Heart note 3,Vanilla,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Heart note 3,Peony,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Heart note 3,Lily of the valley,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Heart note 3,Orchid,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Heart note 3,Jasmine,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Heart note 3,Dry fruit,11,,3
+Tory Burch,Tory Burch,0.6,,0.4,Heart note 3,Jasmine,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Heart note 3,Lily of the valley,37,,9
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Heart note 3,Vanilla,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Heart note 3,Fruit,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Heart note 3,Violet,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Heart note 3,Peony,35,,14
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Heart note 3,Patchouli,20,,17
+Heat,Beyonce,0.375,0.375,0.25,Main accord 3,floral,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Main accord 3,fruity,6,19,
+Vera Wang,Vera Wang,0.290322581,0.35483871,0.35483871,Main accord 3,citrus,31,18,
+Omnia Crystalline,Bvulgari,0.181818182,0.318181818,0.5,Main accord 3,floral,22,16,
+Shalimar,Guerlain,0.109090909,0.086363636,0.8,Main accord 3,woody,220,15,
+Happy,Clinique,0.25,0.386363636,0.363636364,Main accord 3,fresh,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Main accord 3,cacao,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Main accord 3,floral,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Main accord 3,floral,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Main accord 3,fresh,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Main accord 3,aldehydic,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Main accord 3,aromatic,80,6,
+La Vie Est Belle,"
+Lancôme",0.095238095,0.285714286,0.619047619,Main accord 3,fruity,21,,8
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Main accord 3,green,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Main accord 3,Rose,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Main accord 3,tropical,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Main accord 3,Rose,43,8,
+Cashmere Mist,Donna Karan,0.204081633,0.285714286,0.510204082,Main accord 3,powdery,49,7,
+Glow,Jennifer Lopez,0.235294118,0.294117647,0.470588235,Main accord 3,musky,34,10,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Main accord 3,Amber,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Main accord 3,aquatic,71,13,
+Flowerbomb,Viktor&Rolf,0.221052632,0.294736842,0.484210526,Main accord 3,floral,95,11,1
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Main accord 3,floral,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Main accord 3,marine,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Main accord 3,green,23,,4
+Chance eu Tendre,Chanel,0.333333333,0.416666667,0.25,Main accord 3,citrus,12,,5
+Jo Malone London English Pear & Freesia,Jo Malone London,0.25,0.5,0.25,Main accord 3,sweet,4,,6
+Tory Burch,Tory Burch,0.6,,0.4,Main accord 3,floral,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Main accord 3,woody,37,,9
+Jo Malone London 'Peony & Blush Suede',Jo Malone London,0.666666667,,0.333333333,Main accord 3,fresh,3,,10
+Tobacco Vanille,Tom Ford,0.098901099,0.181318681,0.71978022,Main accord 3,Vanilla,182,,11
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Main accord 3,earthy,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Main accord 3,Rose,96,,13
+Lanvin Éclat d’Arpège,Lavin,0.028571429,0.314285714,0.657142857,Main accord 3,green,35,,14
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Main accord 3,floral,189,,15
+Chance,Chanel,0.214285714,0.238095238,0.547619048,Main accord 3,Vanilla,84,,16
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Main accord 3,Patchouli,20,,17
+"Philosophy ""Amazing Grace""",Philosophy,0.05,0.3,0.65,Main accord 3,floral,20,,18
+Beach,Bobbi Brown,,0.466666667,0.533333333,Main accord 3,marine,15,,19
+Heat,Beyonce,0.375,0.375,0.25,Top note 3,Neroli,8,20,
+Diamonds and Sapphires,Elizabeth Taylor,0.166666667,0.166666667,0.666666667,Top note 3,Galbunum,6,19,
+Happy,Clinique,0.25,0.386363636,0.363636364,Top note 3,Mandarin,44,2,
+Vera Wang Princess,Vera Wang,0.146341463,0.219512195,0.634146341,Top note 3,Apple,41,1,
+Pleasures,Estée Lauder,0.145454545,0.218181818,0.636363636,Top note 3,Green Notes,55,5,
+Still Jennifer Lopez,Jennifer Lopez,0.125,0.1875,0.6875,Top note 3,Earl grey tea,16,3,
+Versace Bright Crystal,Versace,0.172413793,0.275862069,0.551724138,Top note 3,Ice,29,9,20
+White Diamonds,Elizabeth Taylor,0.227272727,0.204545455,0.568181818,Top note 3,Aldehyde,44,4,
+Lovely,Sarah Jessica Parker,0.225,0.2,0.575,Top note 3,Mandarin,80,6,
+Jessica McClintock,Jessica Mcclintock,0.352941176,0.235294118,0.411764706,Top note 3,Ylang-Ylang,17,14,
+Romance,Ralph Lauren,0.212765957,0.425531915,0.361702128,Top note 3,Chamomile,47,12,
+Fantasy,Britney Spears,0.290322581,0.241935484,0.467741935,Top note 3,Kiwi,62,,
+Beautiful,Estée Lauder,0.23255814,0.209302326,0.558139535,Top note 3,Lily,43,8,
+L'eau de Issey,Versace,0.188679245,0.188679245,0.622641509,Top note 3,Cyclamen,53,17,
+Be Delicious,DKNY,0.253521127,0.338028169,0.408450704,Top note 3,Magnolia,71,13,
+Coco Mademoiselle,Chanel,0.112068966,0.155172414,0.732758621,Top note 3,Grapefruit,116,,2
+Jo Malone London Wood Sage & Sea Salt,Jo Malone London,0.181818182,0.363636364,0.454545455,Top note 3,Buchu leaves,11,,3
+Jo Malone London Nectarine Blossom & Honey Cologne,Jo Malone London,0.260869565,0.304347826,0.434782609,Top note 3,Petitgrain,23,,4
+Tory Burch,Tory Burch,0.6,,0.4,Top note 3,Black currant,5,,7
+Chloe,chloe,0.216216216,0.243243243,0.540540541,Top note 3,Freesia,37,,9
+Black Orchid,Tom Ford,0.24516129,0.180645161,0.574193548,Top note 3,Black currant,155,,12
+J'adore,Dior,0.177083333,0.291666667,0.53125,Top note 3,Melon,96,,13
+Chanel No. 5,Chanel,0.132275132,0.148148148,0.71957672,Top note 3,Aldehydes,189,,15
+Bottega Veneta,Bottega Veneta,0.05,0.1,0.85,Top note 3,Lily of the valley,20,,17
