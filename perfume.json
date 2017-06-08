@@ -1,0 +1,313 @@
+{
+ "name": "Perfume Galaxy",
+ "img": "./images/center-logo.jpg",
+ "children": [
+  {
+   "perfume": "Balsamic",
+   "name": "Balsamic",
+   "img":  "./images/accords/balsamic.png",
+   "children": [
+    {
+      "perfume": "Shalimar",
+      "name": "Shalimar",
+      "link": "./bubblemenu.php?perfume=Shalimar&name=Shalimar",
+      "img":  "./images/perfumes/Shalimar.png"
+    }
+  ]
+  },
+  {
+   "perfume": "Citrus",
+   "name": "Citrus",
+   "img":  "./images/accords/citrus.png",
+   "children": [
+    {
+      "perfume": "Coco Mademoiselle",
+      "name": "Coco Mademoiselle",
+      "link": "./bubblemenu.php?perfume=Coco-Mademoiselle&name=Coco%20Mademoiselle",
+      "img":  "./images/perfumes/Coco-Mademoiselle.png"
+    },
+    {
+      "perfume": "Happy",
+      "name": "Happy",
+      "link": "./bubblemenu.php?perfume=Happy&name=Happy",
+      "img":  "./images/perfumes/Happy.png"
+    },
+    {
+      "perfume": "Philosophy Amazing Grace",
+      "name": "Philosophy Amazing Grace",
+      "link": "./bubblemenu.php?perfume=philosophy-amazing-grace&name=Philosophy%20Amazing%20Grace",
+      "img":  "./images/perfumes/philosophy-amazing-grace.png"
+    },
+    {
+      "perfume": "Tory Burch",
+      "name": "Tory Burch",
+      "link": "./bubblemenu.php?perfume=tory-burch&name=Tory%20Burch",
+      "img":  "./images/perfumes/tory-burch.png"
+    }
+   ]
+  },
+  {
+   "perfume": "Earthy",
+   "name": "Earthy",
+   "img":  "./images/accords/earthy.png",
+   "children": [
+    {
+      "perfume": "Bottega Veneta",
+      "name": "Bottega Veneta",
+      "link": "./bubblemenu.php?perfume=bottega-veneta&name=Bottega%20Veneta",
+      "img":  "./images/perfumes/bottega-veneta.png"
+    }
+   ]
+  },
+  {
+   "perfume": "Fresh",
+   "name": "Fresh",
+   "img":  "./images/accords/fresh.png",
+   "children": [
+    {
+      "perfume": "Lovely",
+      "name": "Lovely",
+      "link": "./bubblemenu.php?perfume=Lovely-Sarah-Jessica-Parker&name=Lovely%20Sarah%20Jessica%20Parker",
+      "img":  "./images/perfumes/Lovely-Sarah-Jessica-Parker.png"
+    }
+   ]
+  },
+  {
+   "perfume": "Green",
+   "name": "Green",
+   "img":  "./images/accords/green.png",
+   "children": [
+    {
+      "perfume": "Still Jennifer Lopez",
+      "name": "Still Jennifer Lopez",
+      "link": "./bubblemenu.php?perfume=Still-Jennifer-Lopez&name=Still%20Jennifer%20Lopez",
+      "img":  "./images/perfumes/Still-Jennifer-Lopez.png"
+    }
+   ]
+  },
+  {
+   "perfume": "Fruity",
+   "name": "Fruity",
+   "img":  "./images/accords/fruity.png",
+   "children": [
+    {
+      "perfume": "Be Delicious",
+      "name": "Be Delicious",
+      "link": "./bubblemenu.php?perfume=be-delicious&name=Be%20Delicious",
+      "img":  "./images/perfumes/be-delicious.png"
+    },
+    {
+      "perfume": "Jo Malone London Nectarine Blossom and Honey Cologne",
+      "name": "Jo Malone London Nectarine Blossom and Honey Cologne",
+      "link": "./bubblemenu.php?perfume=Jo-Malone-London-Nectarine-Blossom-Honey-Cologne&name=Jo%20Malone%20London%20Nectarine%20Blossom%20Honey%20Cologne",
+      "img":  "./images/perfumes/Jo-Malone-London-Nectarine-Blossom-Honey-Cologne.png"
+    }
+   ]
+  },
+  
+  {
+   "perfume": "Musky",
+   "name": "Musky",
+   "img":  "./images/accords/musky.png",
+   "children": [
+    {
+      "perfume": "Cashmere Mist",
+      "name": "Cashmere Mist",
+      "link": "./bubblemenu.php?perfume=Cashmere-Mist&name=Cashmere%20Mist",
+      "img":  "./images/perfumes/Cashmere-Mist.png"
+    },
+    {
+      "perfume": "Chance",
+      "name": "Chance",
+      "link": "./bubblemenu.php?perfume=chance&name=Chance",
+      "img":  "./images/perfumes/chance.png"
+    },
+    {
+      "perfume": "Jo Malone Wood Sage and Sea Salt",
+      "name": "Jo Malone Wood Sage and Sea Salt",
+      "link": "./bubblemenu.php?perfume=Jo-Malone-London-Wood-Sage-Sea-Salt&name=Jo%20Malone%20London%20Wood%20Sage%20Sea%20Salt",
+      "img":  "./images/perfumes/Jo-Malone-London-Wood-Sage-Sea-Salt.png"
+    }
+   ]
+  },
+  {
+   "perfume": "Spicy",
+   "name": "Spicy",
+   "img":  "./images/accords/spicy.png",
+   "children": [
+    {
+      "perfume": "Black Orchid",
+      "name": "Black Orchid",
+      "link": "./bubblemenu.php?perfume=black-orchid&name=Black%20Orchid",
+      "img":  "http://lorrainesawicki.com/projects/perfume-galaxy/images/perfumes/black-orchid.png"
+    }
+   ]
+  },
+  {
+   "perfume": "Sweet",
+   "name": "Sweet",
+   "img":  "./images/accords/sweet.png",
+   "children": [
+    {
+      "perfume": "Fantasy",
+      "name": "Fantasy",
+      "link": "./bubblemenu.php?perfume=Fantasy-Britney-Spears&name=Fantasy%20Britney%20Spears",
+      "img":  "./images/perfumes/Fantasy-Britney-Spears.png"
+    },
+    {
+      "perfume": "Tobacco Vanille",
+      "name": "Tobacco Vanille",
+      "link": "./bubblemenu.php?perfume=tobacco-vanille&name=Tobacco%20Vanille",
+      "img":  "./images/perfumes/tobacco-vanille.png"
+    },
+    {
+      "perfume": "Vera Wang Princess",
+      "name": "Vera Wang Princess",
+      "link": "./bubblemenu.php?perfume=Vera-Wang-Princess&name=Vera%20Wang%20Princess",
+      "img":  "./images/perfumes/Vera-Wang-Princess.png"
+    },
+    {
+      "perfume": "La Vie Est Belle",
+      "name": "La Vie Est Belle",
+      "link": "./bubblemenu.php?perfume=La-Vie-Est-Belle&name=La%20Vie%20Est%20Belle",
+      "img":  "./images/perfumes/La-Vie-Est-Belle.png"
+    }
+   ]
+  },
+  {
+   "perfume": "Woody",
+   "name": "Woody",
+   "img":  "./images/accords/woody.png",
+   "children": [
+    {
+      "perfume": "Chanel No. 5",
+      "name": "Chanel No. 5",
+      "link": "./bubblemenu.php?perfume=chanel-no-5&name=Chanel%20No%205",
+      "img":  "./images/perfumes/chanel-no-5.png"
+    },
+    {
+      "perfume": "Omnia Crystalline",
+      "name": "Omnia Crystalline",
+      "link": "./bubblemenu.php?perfume=Omnia-Crystalline&name=Omnia%20Crystalline",
+      "img":  "./images/perfumes/Omnia-Crystalline.png"
+    },
+    {
+      "perfume": "J'adore",
+      "name": "J'adore",
+      "link": "./bubblemenu.php?perfume=jadore&name=J%27adore",
+      "img":  "./images/perfumes/jadore.png"
+    }
+   ]
+  },
+
+  {
+   "perfume": "Floral",
+   "name": "Floral",
+   "img":  "./images/accords/floral.png",
+   "children": [
+    {
+      "perfume": "Beach",
+      "name": "Beach",
+      "link": "./bubblemenu.php?perfume=beach-bobbi-brown&name=Beach%20Bobbi%20Brown",
+      "img":  "./images/perfumes/beach-bobbi-brown.png"
+    },
+    {
+      "perfume": "Beautiful",
+      "name": "Beautiful",
+      "link": "./bubblemenu.php?perfume=Beautiful&name=Beautiful",
+      "img":  "./images/perfumes/Beautiful.png"
+    },
+    {
+      "perfume": "Chance eu Tendre",
+      "name": "Chance eu Tendre",
+      "link": "./bubblemenu.php?perfume=chance-eau-tendre&name=Chance%20Eau%20Tendre",
+      "img":  "./images/perfumes/chance-eau-tendre.png"
+    },
+    {
+      "perfume": "Chloe",
+      "name": "Chloe",
+      "link": "./bubblemenu.php?perfume=chloe&name=Chloe",
+      "img":  "./images/perfumes/chloe.png"
+    },
+    {
+      "perfume": "Diamonds and Sapphires",
+      "name": "Diamonds and Sapphires",
+      "link": "./bubblemenu.php?perfume=Diamonds-and-Sapphires&name=Diamonds%20and%20Sapphires",
+      "img":  "./images/perfumes/Diamonds-and-Sapphires.png"
+    },
+    {
+      "perfume": "Flowerbomb",
+      "name": "Flowerbomb",
+      "link": "./bubblemenu.php?perfume=Flowerbomb&name=Flowerbomb",
+      "img":  "./images/perfumes/Flowerbomb.png"
+    },
+    {
+      "perfume": "Glow",
+      "name": "Glow",
+      "link": "./bubblemenu.php?perfume=Glow-Jennifer-Lopez&name=Glow%20Jennifer%20Lopez",
+      "img":  "./images/perfumes/Glow-Jennifer-Lopez.png"
+    },
+    {
+      "perfume": "Jessica McClintock",
+      "name": "Jessica McClintock",
+      "link": "./bubblemenu.php?perfume=Jessica-McClintock&name=Jessica%20McClintock",
+      "img":  "./images/perfumes/Jessica-McClintock.png"
+    },
+    {
+      "perfume": "Jo Malone London Peony and Blush Suede",
+      "name": "Jo Malone London Peony and Blush Suede",
+      "link": "./bubblemenu.php?perfume=Jo-Malone-London-Peony-Blush-Suede&name=Jo%20Malone%20London%20Peony%20Blush%20Suede",
+      "img":  "./images/perfumes/Jo-Malone-London-Peony-Blush-Suede.png"
+    },
+    {
+      "perfume": "Jo Malone London English Pear and Freesia",
+      "name": "Jo Malone London English Pear and Freesia",
+      "link": "./bubblemenu.php?perfume=Jo-Malone-London-English-Pear-Freesia&name=Jo%20Malone%20London%20English%20Pear%20Freesia",
+      "img":  "./images/perfumes/Jo-Malone-London-English-Pear-Freesia.png"
+    },
+    {
+      "perfume": "L'eau de Issey",
+      "name": "L'eau de Issey",
+      "link": "./bubblemenu.php?perfume=Leau-de-Issey&name=L%27eau%20de%20Issey",
+      "img":  "./images/perfumes/Leau-de-Issey.png"
+    },
+    {
+      "perfume": "Lanvin Éclat d’Arpège",
+      "name": "Lanvin Éclat d’Arpège",
+      "link": "./bubblemenu.php?perfume=lanvin-eclat-darpege&name=Lanvin%20Éclat%20d%27Arpège",
+      "img":  "./images/perfumes/lanvin-eclat-darpege.png"
+    },
+    {
+      "perfume": "Pleasures",
+      "name": "Pleasures",
+      "link": "./bubblemenu.php?perfume=Pleasures&name=Pleasures",
+      "img":  "./images/perfumes/Pleasures.png"
+    },
+    {
+      "perfume": "Romance",
+      "name": "Romance",
+      "link": "./bubblemenu.php?perfume=Romance-Ralph-Lauren&name=Ralph%20Lauren",
+      "img":  "./images/perfumes/Romance-Ralph-Lauren.png"
+    },
+    {
+      "perfume": "Vera Wang",
+      "name": "Vera Wang",
+      "link": "./bubblemenu.php?perfume=vera-wang-vera-wang&name=Vera%20Wang",
+      "img":  "./images/perfumes/vera-wang-vera-wang.png"
+    },
+    {
+      "perfume": "Versace Bright Crystal",
+      "name": "Versace Bright Crystal",
+      "link": "./bubblemenu.php?perfume=Versace-Bright-Crystal&name=Versace%20Bright%20Crystal",
+      "img":  "./images/perfumes/Versace-Bright-Crystal.png"
+    },
+    {
+      "perfume": "White Diamonds",
+      "name": "White Diamonds",
+      "link": "./bubblemenu.php?perfume=White-Diamonds&name=White%20Diamonds",
+      "img":  "./images/perfumes/White-Diamonds.png"
+    }
+   ]
+  } 
+ ]
+}
