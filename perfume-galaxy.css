@@ -1,0 +1,47 @@
+      @import url(http://fonts.googleapis.com/css?family=Lato:400,600);
+      @import url(http://fonts.googleapis.com/css?family=Sacramento:400,600);
+
+      body {
+       background-image: url("http://lorrainesawicki.com/projects/perfume-galaxy/images/galaxy2.jpg"); 
+       background-size:contain;
+       width: 100%;
+       font-family: "Lato", Consolas, monaco, monospace; line-height: 160%; font-size: 16px;  margin: 0; 
+      }
+
+      path.link {
+        fill: none;
+        stroke-width: 2px;
+      } 
+      .node:not(:hover) .nodetext { 
+        display: none;
+      }
+      
+      h1 a {
+        text-decoration:none;
+        color:#FFFFFF;  
+      }
+      h1 a:hover, a:link, a:visited {
+        text-decoration:underline;
+      }
+    
+      img {
+         border:#FFFFFF 1px solid;
+      } 
+     
+      #perfume-name {
+         text-transform:uppercase;
+      }
+
+      #mini-info-card {
+         width:250px;
+      }
+
+      h1, h2, h3 {color:#EEEEEE;}
+      h1 { color:#f7f68a; font-size: 45px; margin: 10px 0; font-weight: normal;font-family:"Sacramento"}
+      h2, h3 { font-size: 18px; margin: 5px 0 ; font-weight: normal;}
+      header {padding: 20px; position: absolute; top: 0; left: 0;}
+      a:link { color: #FFFFFF; text-decoration: none;}
+      a:visited { color: #FFFFFF; }
+      a:hover { color: #f7f68a;; text-decoration: underline;}
+      a:active { color: #EEEEEE; }
+
